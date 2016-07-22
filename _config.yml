@@ -1,26 +1,26 @@
 # Site wide configuration
 
-title: "Made Mistakes"
-description: "Personal website of designer slash illustrator Michael Rose."
+title: "ningxx"
+description: "welcome"
 logo: site-logo.png
 teaser: default-teaser.png
 locale: en_US
 words_per_minute: 200
 title_separator: "×"
-url: https://mademistakes.com
+url: http://ningxx.com
 
 
 # Site owner
 
 owner:
-  name: "Michael Rose"
-  email: michael@mademistakes.com
-  twitter: mmistakes
-  facebook: michaelrose
-  instagram: mmistakes
-  tumblr: mademistakes
-  github: mmistakes
-  github-repo: https://github.com/mmistakes/made-mistakes-jekyll/
+  name: "ningxx"
+  email: ripflowers@gmail.com
+  twitter: ripflowers
+  facebook: ripflowers
+  instagram: ripflowers
+  tumblr: ripflowers
+  github: ripflowers
+  github-repo: https://github.com/ripflowers
   google:
     ad-client: ca-pub-7328585512091257
     ad-slot: 3049671934
@@ -100,54 +100,19 @@ defaults:
 
   # Blog Articles
   - scope:
-      path: _posts/articles
+      path: _posts/xfunny
       type: posts
     values:
       layout: article
-      category: articles
-
-  # Mastering Paper
-  - scope:
-      path: _posts/mastering-paper
-      type: posts
-    values:
-      layout: article
-      category: mastering-paper
-
-  # PaperFaces
-  - scope:
-      path: _posts/paperfaces
-      type: posts
-    values:
-      layout: article
-      category: paperfaces
-      comments: true
-
-  # Procreate Paintings
-  - scope:
-      path: _posts/procreate
-      type: posts
-    values:
-      layout: article
-      category: procreate-paintings
-      comments: true
-
-  # Tiny Paintings
-  - scope:
-      path: _posts/tiny-paintings
-      type: posts
-    values:
-      layout: article
-      category: tiny-paintings
-      comments: true
+      category: xfunny
 
   # Work
   - scope:
-      path: _posts/work
+      path: _posts/xwork
       type: posts
     values:
       layout: article
-      category: work
+      category: xwork
 
   # FAQs
   - scope:

@@ -1,8 +1,8 @@
 {
-  "name": "made-mistakes",
+  "name": "ripflowers"
   "description": "Based on Skinny Bones Jekyll starter",
-  "author": "Michael Rose",
-  "homepage": "http://mademistakes.com/",
+  "author": "ripflowers",
+  "homepage": "http://ningxx.com/",
   "license": "The MIT License (MIT)",
   "devDependencies": {
     "grunt": "~0.4.2",
