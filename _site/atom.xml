@@ -4,10 +4,10 @@
 
 
   <generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
-  <link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2016-07-22T16:16:39+08:00</updated>
-  <id>http://localhost:4000/</id>
+  <link href="http://ningxx.com/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="http://ningxx.com/" rel="alternate" type="text/html" />
+  <updated>2016-07-22T16:30:13+08:00</updated>
+  <id>http://ningxx.com/</id>
 
   <title>ningxx</title>
 
@@ -15,7 +15,7 @@
     <subtitle>welcome</subtitle>
   
 
-  <icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
+  <icon>http://ningxx.com/apple-touch-icon-precomposed.png</icon>
 
 
   
@@ -26,7 +26,7 @@
     
       <email>ripflowers@gmail.com</email>
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://ningxx.com/</uri>
   </author>
 
 
@@ -34,18 +34,18 @@
   
     <entry>
   <title>Minimal Mistakes, a Jekyll Theme</title>
-  <link href="http://localhost:4000/xfunny/minimal-mistakes-jekyll-theme/" rel="alternate" type="text/html" title="Minimal Mistakes, a Jekyll Theme" />
+  <link href="http://ningxx.com/xfunny/minimal-mistakes-jekyll-theme/" rel="alternate" type="text/html" title="Minimal Mistakes, a Jekyll Theme" />
   <published>2016-04-15T00:00:00+08:00</published>
 
   
     <updated>2016-04-15T00:00:00+08:00</updated>
   
 
-  <id>http://localhost:4000/xfunny/minimal-mistakes-jekyll-theme</id>
-  <content type="html" xml:base="http://localhost:4000/xfunny/minimal-mistakes-jekyll-theme/">
+  <id>http://ningxx.com/xfunny/minimal-mistakes-jekyll-theme</id>
+  <content type="html" xml:base="http://ningxx.com/xfunny/minimal-mistakes-jekyll-theme/">
     
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/minimal-mistakes-3-feature.jpg&quot; alt=&quot;Minimal Mistakes, a Jekyll Theme&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ningxx.com/images/minimal-mistakes-3-feature.jpg&quot; alt=&quot;Minimal Mistakes, a Jekyll Theme&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
 
 
     &lt;p&gt;Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or your own server.&lt;/p&gt;
@@ -53,9 +53,9 @@
 &lt;p&gt;As the name implies — styling is purposely minimalistic to be enhanced and customized by you :smile:.&lt;/p&gt;
 
 &lt;figure class=&quot;third&quot;&gt;
-  &lt;a href=&quot;http://localhost:4000/images/mm-layout-splash.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/mm-layout-splash.png&quot; alt=&quot;splash layout example&quot; /&gt;&lt;/a&gt;
-  &lt;a href=&quot;http://localhost:4000/images/mm-layout-single-meta.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/mm-layout-single-meta.png&quot; alt=&quot;single layout with comments and related posts&quot; /&gt;&lt;/a&gt;
-  &lt;a href=&quot;http://localhost:4000/images/mm-layout-archive.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/mm-layout-archive.png&quot; alt=&quot;archive layout example&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;http://ningxx.com/images/mm-layout-splash.png&quot;&gt;&lt;img src=&quot;http://ningxx.com/images/mm-layout-splash.png&quot; alt=&quot;splash layout example&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;http://ningxx.com/images/mm-layout-single-meta.png&quot;&gt;&lt;img src=&quot;http://ningxx.com/images/mm-layout-single-meta.png&quot; alt=&quot;single layout with comments and related posts&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;http://ningxx.com/images/mm-layout-archive.png&quot;&gt;&lt;img src=&quot;http://ningxx.com/images/mm-layout-archive.png&quot; alt=&quot;archive layout example&quot; /&gt;&lt;/a&gt;
   &lt;figcaption&gt;
 The theme includes responsive layouts (&lt;code class=&quot;highlighter-rouge&quot;&gt;single&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;archive&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;splash&lt;/code&gt; pages) that look great on mobile and desktop browsers.
 &lt;/figcaption&gt;
@@ -90,7 +90,7 @@ The theme includes responsive layouts (&lt;code class=&quot;highlighter-rouge&qu
 
     
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/xfunny/minimal-mistakes-jekyll-theme/&quot; rel=&quot;nofollow&quot;&gt;Minimal Mistakes, a Jekyll Theme&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;ningxx&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;ningxx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ningxx.com/xfunny/minimal-mistakes-jekyll-theme/&quot; rel=&quot;nofollow&quot;&gt;Minimal Mistakes, a Jekyll Theme&lt;/a&gt; was originally published by &lt;a href=&quot;http://ningxx.com/about/&quot; rel=&quot;nofollow&quot;&gt;ningxx&lt;/a&gt; on &lt;a href=&quot;http://ningxx.com&quot; rel=&quot;nofollow&quot;&gt;ningxx&lt;/a&gt;&lt;/p&gt;
 
 
   </content>
@@ -103,7 +103,7 @@ The theme includes responsive layouts (&lt;code class=&quot;highlighter-rouge&qu
     
       <email>ripflowers@gmail.com</email>
     
-    <uri>http://localhost:4000/</uri>
+    <uri>http://ningxx.com/</uri>
   </author>
 
 
